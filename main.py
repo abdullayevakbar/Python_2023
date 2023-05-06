@@ -1,1 +1,3 @@
-print("Hello world!")
+val = "Akbar"
+
+print("Hello", val)
